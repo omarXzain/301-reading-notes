@@ -4,7 +4,7 @@
 # Table Of Content:
 |       Lap         | Read-Num                                                                              |  
 |  --------------   | -----------------------------------------------------------------------------------   | 
-|    Class 1        | []()| 
+|    Class 1        | [SMACSS and Responsive Web Design](https://omarxzain.github.io/301-reading-notes/read01)| 
 |    Class 2        | []()| 
 |    Class 3        | []()| 
 |    Class 4        | []()| 

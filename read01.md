@@ -46,4 +46,4 @@
 
 ----------------------------------------------------
 
-[Table Of Content](https://omarxzain.github.io/301-reading-notes/rea01)
+[Table Of Content](https://omarxzain.github.io/301-reading-notes/read01)

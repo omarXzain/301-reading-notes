@@ -5,7 +5,7 @@
 |       Lap         | Read-Num                                                                              |  
 |  --------------   | -----------------------------------------------------------------------------------   | 
 |    Class 1        | [SMACSS and Responsive Web Design](https://omarxzain.github.io/301-reading-notes/read01)| 
-|    Class 2        | []()| 
+|    Class 2        | [jQuery, Events, and The DOM](https://omarxzain.github.io/301-reading-notes/read02)| 
 |    Class 3        | []()| 
 |    Class 4        | []()| 
 |    Class 5        | []()| 

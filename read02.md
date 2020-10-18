@@ -67,7 +67,7 @@ Plugins are scripts that extend the functionality of the jQuery library. Hundred
 -----------------------------
 
 
-[Table Of Content](https://omarxzain.github.io/301-reading-notes/read02)
+[Table Of Content](https://github.com/omarXzain/301-reading-notes)
 
 
 

@@ -52,15 +52,16 @@ Plugins are scripts that extend the functionality of the jQuery library. Hundred
 - Pair programing is a technique used to foster a collaborative environment while developing key industry skills, and it is used commonly in many agile work environments. pair programming involves two roles:
 ![](https://miro.medium.com/max/728/1*ttjXOopjcC4gi2JYMh8G3w.png)
 - Driver: the programmer who is typing and the only one whose hands are on the keyboard. Manages the text editor, switching files, version control, awriting—code.
-Navigator: uses their words to guide the Driver but does not provide any direct input to the computer. Using pai programming touches on all four skills (speaking, listening, reading and writing): developers explain out loud what the code should do, listen to others’ guidance, read code that others have written, and write code themselves.
-The following are reasons why you should do pair programming:
+- Navigator: uses their words to guide the Driver but does not provide any direct input to the computer.
+- Using programming touches on all four skills (speaking, listening, reading and writing): developers explain out loud what the code should do, listen to others’ guidance, read - code that others have written, and write code themselves.
 
-- Greater efficiency.
-Engaged collaboration
-Learning from fellow students.
-Social skills.
-Job interview readiness.
-Work environment readiness.
+#### The following are reasons why you should do pair programming:
+1. Greater efficiency.
+2. Engaged collaboration
+3. Learning from fellow students.
+4. Social skills.
+5. Job interview readiness.
+6. Work environment readiness.
 
 
 -----------------------------

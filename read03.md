@@ -1,7 +1,7 @@
 # Javascript Templating
 **Javascript templating is a fast and efficient technique to render client-side view templates with Javascript by using a JSON data source**
 
-* The template is HTML markupwith added templating tags that will either insert variables or run programming logic.
+* The template is HTML markup with added templating tags that will either insert variables or run programming logic.
 
 
 ## Mustache 

@@ -6,16 +6,16 @@
 |  --------------   | -----------------------------------------------------------------------------------   | 
 |    Class 1        | [SMACSS and Responsive Web Design](https://omarxzain.github.io/301-reading-notes/read01)| 
 |    Class 2        | [jQuery, Events, and The DOM](https://omarxzain.github.io/301-reading-notes/read02)| 
-|    Class 3        | []()| 
-|    Class 4        | []()| 
-|    Class 5        | []()| 
-|    Class 6        | []()| 
-|    Class 7        | []()| 
-|    Class 8        | []()| 
-|    Class 9        | []()|
-|    Class 10       | []()| 
-|    Class 11       | []()| 
-|    Class 12       | []()| 
-|    Class 13       | []()| 
-|    Class 14       | []()| 
-|    Class 15       | []()| 
+|    Class 3        | [Flexbox and Templating](https://omarxzain.github.io/301-reading-notes/read03)| 
+|    Class 4        | [](https://omarxzain.github.io/301-reading-notes/read04)| 
+|    Class 5        | [](https://omarxzain.github.io/301-reading-notes/read05)| 
+|    Class 6        | [](https://omarxzain.github.io/301-reading-notes/read06)| 
+|    Class 7        | [](https://omarxzain.github.io/301-reading-notes/read07)| 
+|    Class 8        | [](https://omarxzain.github.io/301-reading-notes/read08)| 
+|    Class 9        | [](https://omarxzain.github.io/301-reading-notes/read09)|
+|    Class 10       | [](https://omarxzain.github.io/301-reading-notes/read10)| 
+|    Class 11       | [](https://omarxzain.github.io/301-reading-notes/read11)| 
+|    Class 12       | [](https://omarxzain.github.io/301-reading-notes/read12)| 
+|    Class 13       | [](https://omarxzain.github.io/301-reading-notes/read13)| 
+|    Class 14       | [](https://omarxzain.github.io/301-reading-notes/read14)| 
+|    Class 15       | [](https://omarxzain.github.io/301-reading-notes/read15)| 

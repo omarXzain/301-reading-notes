@@ -1,7 +1,7 @@
 
 # About Heroku 
 ---------------
-## Introduction to Node.js fo:
+## Introduction in Node.js (Heroku);
 - Heroku is a cloud platform as a service (PaaS) supporting several programming languages. 
 - One of the first cloud platforms, when it supported only the Ruby programming language, but now supports Java, Node.js, Scala, Clojure, Python, PHP, and Go. For this reason, Heroku is said to be a polyglot platform as it has features for a developer to build, run and scale applications in a similar manner across most languages.
 - Developers use Heroku to deploy, manage, and scale modern apps. It is flexible, and easy to use, offering developers the simplest path to getting their apps to market.
@@ -35,4 +35,4 @@
 ----------------------------------------------
 
 
-[Table Of Content](https://omarxzain.github.io/301-reading-notes)
+[Table Of Content](https://github.com/omarXzain/301-reading-notes)

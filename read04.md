@@ -46,4 +46,4 @@ grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
 
 
 
-[Table Of Content](https://omarxzain.github.io/301-reading-notes)
+[Table Of Content](https://github.com/omarXzain/301-reading-notes)

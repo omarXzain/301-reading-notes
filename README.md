@@ -10,7 +10,7 @@
 |    Class 4        | [Responsive Web Design](https://omarxzain.github.io/301-reading-notes/read04)| 
 |    Class 5        | [Heroku Deployment](https://omarxzain.github.io/301-reading-notes/read05)| 
 |    Class 6        | [Node, Express, and APIs](https://omarxzain.github.io/301-reading-notes/read06)| 
-|    Class 7        | [](https://omarxzain.github.io/301-reading-notes/read07)| 
+|    Class 7        | [APIs continued](https://omarxzain.github.io/301-reading-notes/read07)| 
 |    Class 8        | [](https://omarxzain.github.io/301-reading-notes/read08)| 
 |    Class 9        | [](https://omarxzain.github.io/301-reading-notes/read09)|
 |    Class 10       | [](https://omarxzain.github.io/301-reading-notes/read10)| 

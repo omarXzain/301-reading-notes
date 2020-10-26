@@ -1,5 +1,5 @@
-<img width="600" height="300" src="https://i.ytimg.com/vi/Geppur9LDnw/maxresdefault.jpg" >
-![](https://i.ytimg.com/vi/Geppur9LDnw/maxresdefault.jpg)
+<img width="800" height="400" src="https://i.ytimg.com/vi/Geppur9LDnw/maxresdefault.jpg" >
+
 ## REST
 - intro
 **it is capable of describing the location of something anywhere in the world from anywhere in the world. It's the foundation of the web**

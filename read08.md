@@ -39,13 +39,11 @@ Depending on how you want to analyze the data, the INNER JOIN we used last lesso
 - You can create a new table using the CREATE TABLE statement as shown below:
 
 ### CREATE TABLE IF NOT EXISTS 
-```
+
 - ( mytable 
     column DataType TableConstraint DEFAULT default_value,
-    another_column DataType TableConstraint DEFAULT default_value,
-    …
-    );
-    ```
+    another_column DataType TableConstraint DEFAULT default_value );
+
 - The structure of the new table is defined by its table schema, which defines a series of columns. Each column has a name, the type of data allowed in that column, an optional table constraint on values being inserted, and an optional default value. If by any chance there was already a table with the same name, the SQL implementation will usually throw an error, so to suppress the error and skip creating a table if one exists, you can use the IF NOT EXISTS clause.
 
 ----------------------------------------

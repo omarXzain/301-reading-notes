@@ -51,4 +51,3 @@ Depending on how you want to analyze the data, the INNER JOIN we used last lesso
 
 [Table Of Content](https://github.com/omarXzain/301-reading-notes)
 
-Just like you would like you to create new tables, you can also remove entire tables using the DROP TABLE statement (you can also add IF EXISTS to this statement as well).

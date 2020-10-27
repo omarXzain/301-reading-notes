@@ -132,7 +132,7 @@ Note:
 -----
 - It’s important to get your code right the first time because in many businesses there isn’t much value in refactoring.
 
-HAVE A Nice READ :)
+- HAVE A Nice READ :)
 
 -----------------------------------------------------
 

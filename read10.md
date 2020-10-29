@@ -12,6 +12,9 @@
  
  ![](https://images.ctfassets.net/cj4mgtttlyx7/753S2VPVCmWHsSI4YJ8Xcu/a0e2b180b2022b162bc41ca24d9c89e6/Javascript_Debugging_Errors.jpg?w=794&q=50)
  
+## What causes a stack overflow?
+A stack overflow occurs when there is a recursive function (a function that calls itself) without an exit point. The browser (hosting environment) has a maximum stack call that it can accomodate before throwing a stack error.
+ 
 ### Types of error messages:
 Reference errors:
 Syntax errors

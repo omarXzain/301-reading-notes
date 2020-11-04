@@ -17,5 +17,5 @@
 |    Class 11       | [EJS](https://omarxzain.github.io/301-reading-notes/read11)| 
 |    Class 12       | [Components](https://omarxzain.github.io/301-reading-notes/read12)| 
 |    Class 13       | [Update/Delete](https://omarxzain.github.io/301-reading-notes/read13)| 
-|    Class 14       | [DB Normalization](https://omarxzain.github.io/301-reading-notes/read14)| 
-|    Class 15       | [](https://omarxzain.github.io/301-reading-notes/read15)| 
+|    Class 14       | [DB Normalization](https://omarxzain.github.io/301-reading-notes/read14a)| 
+|    Class 15       | [Diversity and Inclusion](https://omarxzain.github.io/301-reading-notes/read15)| 

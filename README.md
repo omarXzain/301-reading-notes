@@ -1,8 +1,9 @@
 # Code 401 - Advanced Software Development
 
-*I am Omar Zain ,icame from Civil engineer background , and I'm also graphic designer*
+*I am Omar Zain ,i came from Civil engineer background , and I'm also graphic designer*
 *Now I study software development at ASAC*
 *I'm here because I like what coding does and it's a chance for me to build myself and to learn something new*
+
 ------------------------
 
 # Table Of Content:

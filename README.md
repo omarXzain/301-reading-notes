@@ -1,21 +1,56 @@
-# Code 301 - Intermediate Software Development
+# Code 401 - Advanced Software Development
+
+*I am Omar Zain ,icame from Civil engineer background , and I'm also graphic designer*
+*Now I study software development at ASAC*
+*I'm here because I like what coding does and it's a chance for me to build myself and to learn something new*
 ------------------------
 
 # Table Of Content:
 |       Lap         | Read-Num                                                                              |  
 |  --------------   | -----------------------------------------------------------------------------------   | 
-|    Class 1        | [SMACSS and Responsive Web Design](https://omarxzain.github.io/301-reading-notes/read01)| 
-|    Class 2        | [jQuery, Events, and The DOM](https://omarxzain.github.io/301-reading-notes/read02)| 
-|    Class 3        | [Flexbox and Templating](https://omarxzain.github.io/301-reading-notes/read03)| 
-|    Class 4        | [Responsive Web Design](https://omarxzain.github.io/301-reading-notes/read04)| 
-|    Class 5        | [Heroku Deployment](https://omarxzain.github.io/301-reading-notes/read05)| 
-|    Class 6        | [Node, Express, and APIs](https://omarxzain.github.io/301-reading-notes/read06)| 
-|    Class 7        | [APIs continued](https://omarxzain.github.io/301-reading-notes/read07)| 
-|    Class 8        | [SQL](https://omarxzain.github.io/301-reading-notes/read08)| 
-|    Class 9        | [Refactoring](https://omarxzain.github.io/301-reading-notes/read09)|
-|    Class 10       | [The Call Stack and Debugging](https://omarxzain.github.io/301-reading-notes/read10)| 
-|    Class 11       | [EJS](https://omarxzain.github.io/301-reading-notes/read11)| 
-|    Class 12       | [Components](https://omarxzain.github.io/301-reading-notes/read12)| 
-|    Class 13       | [Update/Delete](https://omarxzain.github.io/301-reading-notes/read13)| 
-|    Class 14       | [DB Normalization](https://omarxzain.github.io/301-reading-notes/read14a)| 
-|    Class 15       | [Diversity and Inclusion](https://omarxzain.github.io/301-reading-notes/read15)| 
+|    Class 1        | []()| 
+|    Class 2        | []()| 
+|    Class 3        | []()| 
+|    Class 4        | []()| 
+|    Class 5        | []()| 
+|    Class 6        | []()| 
+|    Class 7        | []()| 
+|    Class 8        | []()| 
+|    Class 9        | []()|
+|    Class 10       | []()| 
+|    Class 11       | []()| 
+|    Class 12       | []()| 
+|    Class 13       | []()| 
+|    Class 14       | []()| 
+|    Class 15       | []()| 
+|    Class 16       | []()| 
+|    Class 17       | []()| 
+|    Class 16       | []()| 
+|    Class 17       | []()| 
+|    Class 18       | []()| 
+|    Class 19       | []()| 
+|    Class 20       | []()| 
+|    Class 21       | []()| 
+|    Class 22       | []()|
+|    Class 23       | []()| 
+|    Class 24       | []()| 
+|    Class 25       | []()| 
+|    Class 26       | []()| 
+|    Class 27       | []()| 
+|    Class 28       | []()|
+|    Class 29       | []()| 
+|    Class 30       | []()| 
+|    Class 31       | []()| 
+|    Class 32       | []()| 
+|    Class 33       | []()| 
+|    Class 34       | []()| 
+|    Class 35       | []()| 
+|    Class 36       | []()| 
+|    Class 37       | []()|
+|    Class 38       | []()| 
+|    Class 39       | []()| 
+|    Class 40       | []()| 
+|    Class 41       | []()| 
+|    Class 42       | []()| 
+|    Class 43       | []()|
+|    Class 44       | []()|
